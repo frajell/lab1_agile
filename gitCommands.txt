@@ -1,0 +1,64 @@
+git add     
+git branch     
+git branch -m     
+git checkout     
+git cherry -v master         
+git clone     
+git commit     
+git commit -a     
+git commit -v     
+git diff     
+git fetch     
+git fetch -p    
+git init     
+git help -g     
+git log -p     
+git log     
+git ls         
+git merge     
+git mv         
+git pull     
+git push     
+git rebase     
+git remote     
+git remote set-url origin     
+git rm         
+git reset     
+git revert     
+git stash     
+git status     
+git update -ref
+git config -l
+git config --global user.name "name"
+git config --global user.email "my.name@myadress.com"
+git config --global credential.helper cache
+git add filname
+git add .
+git commit -m "here's your message"
+git show commit-id
+git log --stat
+git rm "filename"
+git commit --amend 
+git revert "commit-id" 
+git branch "branch_name" 
+git branch -r 
+git checkout -b "branch_name"
+git checkout "branch_name" 
+git branch -d "branch_name" 
+git merge "branch_name" 
+git log --graph --oneline 
+git log --grapch --oneline --all
+git log "origin/main"
+git merge --abort
+git add remote "https://repo_here"
+git remote show "origin"
+git merge "origin/main" 
+git push -u "origin branch_name" 
+git push --delete "origin branch_name" 
+git push -f 
+git diff --staged 
+git remote -v 
+
+ 
+
+  
